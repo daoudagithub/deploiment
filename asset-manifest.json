@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daoudagithub.github.io/deploiment/static/css/main.29019eba.css",
+    "main.js": "/daoudagithub.github.io/deploiment/static/js/main.511cf5d4.js",
+    "index.html": "/daoudagithub.github.io/deploiment/index.html",
+    "main.29019eba.css.map": "/daoudagithub.github.io/deploiment/static/css/main.29019eba.css.map",
+    "main.511cf5d4.js.map": "/daoudagithub.github.io/deploiment/static/js/main.511cf5d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29019eba.css",
+    "static/js/main.511cf5d4.js"
+  ]
+}
